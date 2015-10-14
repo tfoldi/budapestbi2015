@@ -325,7 +325,7 @@ end
 
 ### Pipelines
 
-FP lanugagues like pipelining.
+FP like pipelining:
 
 ```
 julia> [1:5;] |> x->x.^2 |> sum |> inv
