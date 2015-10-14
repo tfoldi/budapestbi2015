@@ -118,7 +118,7 @@ We just want to return with `true` after processing.
                 (println "Value:" val)
                 (* 2 val))
        [1 2 3 4])
-       true)
+  true)
 
 ```
 ```
