@@ -1,7 +1,7 @@
 author:
   name: Tamas Foldi
   twitter: tfoldi
-  url: http://
+  url: http://databoss.starschema.net/
 output: index.html
 controls: true
 theme: sjaakvandenberg/cleaver-light
