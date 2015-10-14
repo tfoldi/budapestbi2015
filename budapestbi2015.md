@@ -244,7 +244,7 @@ ghci> take 10 fib
 
 The world is betting on LLVM:
 * **clang** is running on LLVM
-* Google's (biggest c++ shop) runs most of their algorithm on LLVM
+* Google (the worlds biggest C++ shop) compiles its C/C++ code with LLVM
 * Apple besides clang, **swift** using **OpenGL** JIT
 * Sony PS4 is built around LLVM 
 
